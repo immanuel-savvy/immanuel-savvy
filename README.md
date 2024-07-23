@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @immanuel-savvy
-- 👀 I’m interested in working as a Software Developer
-- 🌱 I’m currently learning Computer Processor and IC design
-- 💞️ In the past I have worked on Arena Mobile which is a decentralise social platform, that ran on a socket-to-socket data mediator and leveraged her own datastore.
+- 👀 I’m a Computer Scientist.
+- My current flagship tech is [GodProtocol](https://godprotocol-web.vercel.app/)
+- 💞️ In the past I have worked on Arena Mobile which is a decentralise social platform.
 - 📫 I am responsive via my email "immauelsavvy@gmail.com"
 
 <!---
